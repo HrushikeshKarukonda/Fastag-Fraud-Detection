@@ -145,9 +145,8 @@ Analyzed seasonal variations in toll collections and vehicle flow.
 
 ### 🧑‍💻 Author
 
-Jadhav Akshay Kumar
-B.Tech in Electronics & Communication Engineering
+Karukonda Hrushikesh
+B.Tech in computer science and Engineering
 Indian Institute of Technology (ISM) Dhanbad
-|📧 Email
-| 🌐 LinkedIn
+
  
